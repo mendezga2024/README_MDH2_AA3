@@ -1,14 +1,14 @@
-# Species and enzyme
-# Uniprot number
-# Variation
+# Human MDH2
+# Uniprot ID: P40926
+# Variation: phosphorylation of Ser 3
 
 
-## Description
+## Serine 3 is located at the very beginning of the amino acid sequence of human MDH2 on an alpha loop, also called a tail (Figure 1). The modified residue is distant from the dimer interface, substrate binding site, and the active site. This is due to it being located on the alpha loop instead of the main structure.
 
 # Part 1 from Project 4 report outline (with citations as appropriate)
 
 1. image of the unmodified site
-![alt text](images/XXX.png)
+![alt text](images/unmodified_ser3.png)
 
 2. image of modification site
 ![alt text](images/XXX.png)
@@ -46,10 +46,10 @@ Provide file names of completed colab notebooks
 
 ## Authors
 
-Contributors names
+Gabby Mendez
 
 ## Deposition Date
-
+12/06/2024
 ## License
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
